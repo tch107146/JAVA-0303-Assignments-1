@@ -71,6 +71,6 @@ java JAVA_0303_Assignments_1
 
 [x] README: Structured bilingual project documentation.
 
-[ ] Screenshot: Terminal output of a chaotic state ($r=3.9$).
+[x] Screenshot: Terminal output of a chaotic state ($r=3.9$).
 
-[ ] IEEE Paper: Formal report in IEEE conference format.
+[x] IEEE Paper: Formal report in IEEE conference format.
